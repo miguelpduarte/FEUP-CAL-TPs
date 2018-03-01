@@ -1,4 +1,4 @@
-# FEUP-AEDA
+# FEUP-CAL
 Exercises developed in the CAL course unit.
 
 ### Project Infos
